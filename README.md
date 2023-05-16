@@ -3,17 +3,17 @@
 
 Простое расширение которые возвращает возможность выделения, копирования и вставки в тестах МИРЭА.
 
-[**Скачать**](https://github.com/ItsEthra/MireaJacked/releases/tag/1.0.0)
+[**Скачать**](https://github.com/ItsEthra/MireaJacked/releases/tag/1.0.1)
 
 # Установка
 ## Chrome / Яндекс
-* Распакуйти [архив расширения](https://github.com/ItsEthra/MireaJacked/releases/tag/1.0.0) в любую папку так что бы внутри папки были файлы `manifest.json`, `main.json`, `icon96.png`.
-* Перейдите по сслыке `chrome://extensions/`, включить Developer Mode(Режим Разработчика).
-* Нажмите `Load unpacked` и выберите папке с файлами указанами выше.
-* Profit! Теперь можно идти пастить тесты сайте СДО.
+* Распакуйти [архив расширения](https://github.com/ItsEthra/MireaJacked/releases/tag/1.0.1) в любую папку так что бы внутри папки были файлы `manifest.json`, `main.json`, `icon96.png`.
+* Перейдите по сслыке `chrome://extensions/`, включить `Developer Mode`(`Режим Разработчика`).
+* Нажмите `Load unpacked`(`Загрузить распакованное расширение`) и выберите папку с файлами указанами выше.
+* Игнорируем ошибки и идем пастить тесты на сайте СДО.
 ## Firefox
 ~думаю у кого установлен firefox тот уже и сам знает как устанавливать расширения, но если нет то вот как~
-* Скачайте [архив расширения](https://github.com/ItsEthra/MireaJacked/releases/tag/1.0.0) указный выше.
-* Переходим по `about:addons`, кликаем на шестеренку(⚙️) и нажимаем `Debug Add-ons > Load Temporary Add-on`.
+* Скачайте [архив расширения](https://github.com/ItsEthra/MireaJacked/releases/tag/1.0.1) указный выше.
+* Переходим по ссылке `about:addons`, кликаем на шестеренку(⚙️) и нажимаем `Debug Add-ons > Load Temporary Add-on`.
 * Выбираем папку с архивом.
 ### !!! В Firefox расширение будет работать только до перезагрузки браузера, потом нужно будет добавлять заного.

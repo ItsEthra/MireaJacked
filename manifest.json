@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "MireaJacked",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Возвращает возможность копирование, выделение и вставки в тестах МИЭРА",
 	"icons": {
 		"96": "icon96.png"
@@ -9,7 +9,7 @@
 	"content_scripts": [
 		{
 			"matches": [
-				"*://online-edu.mirea.ru/*"
+				"*://online-edu.mirea.ru/mod/quiz/*"
 			],
 			"js": [
 				"main.js"
