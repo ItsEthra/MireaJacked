@@ -7,8 +7,8 @@
 
 # Установка
 ## Chrome / Яндекс
-* Распакуйти [архив расширения](https://github.com/ItsEthra/MireaJacked/releases/tag/1.0.1) в любую папку так что бы внутри папки были файлы `manifest.json`, `main.json`, `icon96.png`.
-* Перейдите по сслыке `chrome://extensions/`, включить `Developer Mode`(`Режим Разработчика`).
+* Распакуйте [архив расширения](https://github.com/ItsEthra/MireaJacked/releases/tag/1.0.1) в любую папку так что бы внутри папки были файлы `manifest.json`, `main.json`, `icon96.png`.
+* Перейдите по сслыке `chrome://extensions/` и включите `Developer Mode`(`Режим Разработчика`).
 * Нажмите `Load unpacked`(`Загрузить распакованное расширение`) и выберите папку с файлами указанами выше.
 * Игнорируем ошибки и идем пастить тесты на сайте СДО.
 ## Firefox
