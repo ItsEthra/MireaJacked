@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name Mirea Jacket
+// @name Mirea Jacked
 // @description Простое расширение которые возвращает возможность выделения, копирования и вставки в тестах МИРЭА.
 // @version 1.0.1
 // @author ItsEthra
@@ -7,7 +7,7 @@
 // @supportURL https://github.com/ItsEthra/MireaJacked/issues
 // @match *://online-edu.mirea.ru/*
 // @icon https://raw.githubusercontent.com/ItsEthra/MireaJacked/master/icon96.png
-// @namespace MireaJacket
+// @namespace MireaJacked
 // @updateURL https://github.com/ItsEthra/MireaJacked/blob/master/main.js
 // ==/UserScript==
 
